@@ -1,4 +1,3 @@
-
 KERNEL_DIR = /home/lwc/developer/imx6/linux-4.1.15
 CROSS_COMPILE = arm-poky-linux-gnueabi-
 ARCH = arm
